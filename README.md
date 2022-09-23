@@ -9,12 +9,8 @@ The purpose of this project was to complete a dahsboard for a researcher to view
 This is the final dashboard, there are four interactable data sets that will change based on the selection of the ID of each volunteer. 
 
 ![Homepage](Resources/Homepage.png)
+![Homepage](Resources/Homepage_2.png)
 
-## Interact with the data
-
-To interact with the data please visit:
-
-https://Veronica1269github.io/Plotlydiploy/
 
 ## Resources
 
